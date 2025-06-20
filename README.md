@@ -1,4 +1,4 @@
-# Fetch ensembl variant information from the Ensembl REST API based on rsIDs
+# Fetch variant information from the Ensembl REST API based on rsIDs
 
 This repository contains the R script `fetch_variants_from_rsids.R`, which fetches variant information from the Ensembl REST API using a list of rsIDs.
 
