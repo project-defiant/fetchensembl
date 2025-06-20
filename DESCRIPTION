@@ -1,0 +1,18 @@
+Package: fetchensembl
+Title: Fetch ensembl variants from rsids
+Version: 0.0.0.9000
+Authors@R: 
+    person("Szymon", "Szyszkowski", , "szymonszyszkowski@gmail.com", role = c("aut", "cre"))
+Description: Fetch homo sampiens genetic variants from Ensembl API based on rsIds.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    cli,
+    dplyr,
+    httr,
+    jsonlite,
+    purrr,
+    readr,
+    tidyr
