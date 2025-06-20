@@ -1,6 +1,6 @@
 Package: fetchensembl
 Title: Fetch ensembl variants from rsids
-Version: 0.0.0.9000
+Version: 1.0.0.0
 Authors@R: 
     person("Szymon", "Szyszkowski", , "szymonszyszkowski@gmail.com", role = c("aut", "cre"))
 Description: Fetch homo sampiens genetic variants from Ensembl API based on rsIds.
